@@ -455,6 +455,7 @@
     "books_violenceSecret1_Slate2": "- РАЗМЕР 2"
   },
   "enemyNames": {
+    "enemyname_minotaur": "MINOTAUR",
     "enemyname_filth": "ОТБРОС",
     "enemyname_stray": "БРОДЯГА",
     "enemyname_schism": "РАЗЛОМ",
@@ -2308,5 +2309,29 @@
       "visualnovel_conclusionResponseSecond1": "Ладно, как скажешь.",
       "visualnovel_conclusionResponseSecond2": "Но предложение всё ещё в силе, если ты всё-таки передумаешь.",
       "visualnovel_conclusionResponseSecond3": "Увидимся, красавчик."
-    }
+    },
+  "sandbox": {
+    "sandbox_navmeshWarn": "NavMesh устарел. Пожалуйста перестройте его.",
+
+    "sandbox_shop_timeOfDay": "TIME OF DAY",
+    "sandbox_shop_worldOptions": "WORLD OPTIONS",
+    "sandbox_shop_icons": "ICONS",
+
+    "sandbox_shop_stats": "СЧЁТЧИКИ",
+    "sandbox_shop_totalBoxes": "ВСЕГО КОРОБОК ПОСТРОЕНО",
+    "sandbox_shop_totalProps": "ВСЕГО ПРОПОВ ЗАСПАВЛЕНО",
+    "sandbox_shop_totalEnemies": "ВСЕГО ЗАСПАВНЕНО ВРАГОВ",
+    "sandbox_shop_totalTime": "ПРОВЕДЕНО ВРЕМЯ В ПЕСОЧНИЦЕ",
+
+    "sandbox_shop_worldOptionsTitle": "ОПЦИИ МИРА",
+    "sandbox_shop_worldOptionsEnable": "ВКЛЮИТЬ",
+    "sandbox_shop_worldOptionsDisable": "ВЫКЛЮЧИТЬ",
+    "sandbox_shop_worldOptionsEnabled": "ВКЛЮЧЕНО",
+    "sandbox_shop_worldOptionsDisabled": "ВЫКЛЮЧЕНО",
+
+    "sandbox_shop_mapBorder": "ГРАНИЦА КАРТЫ",
+    "sandbox_shop_iconsTitle": "НАБОР ИКОНОК",
+    "sandbox_shop_default": "ОБЫЧНЫЙ",
+    "sandbox_shop_pitr": "PITR"
+  }
   }
