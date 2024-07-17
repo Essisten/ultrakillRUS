@@ -1527,6 +1527,7 @@
       "leveltips_devMuseum": "You can pick up the cut weapons on the second floor."
     },
     "shop": {
+      "shop_menu": "МЕНЮ",
       "shop_tipofthedayTitle": "СОВЕТ ДНЯ",
       "shop_tipoftheday": "",
       "shop_weapons": "ОРУЖИЕ",
