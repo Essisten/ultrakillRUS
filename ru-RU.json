@@ -782,11 +782,11 @@
     "tutorial_punch2": "чтобы УДАРИТЬ.",
     "tutorial_slide1": "Удерживайте",
     "tutorial_slide2": "чтобы СКОЛЬЗИТЬ.",
-    "tutorial_dash1": "Нажмите",
+    "tutorial_dash1": "Нажмите ",
     "tutorial_dash2": "чтобы сделать РЫВОК. (Расходует стамину)",
     "tutorial_dash3": "Может быть использовано в воздухе.",
     "tutorial_health1": "Наносите урон на маленьком расстоянии чтобы получать СВЕЖУЮ КРОВЬ.",
-    "tutorial_health2": "ЭТО ЕДИНСТВЕННЫЙ СПОСОБ ВОСТАНОВИТЬ ЖИЗНИ.",
+    "tutorial_health2": "ЭТО ЕДИНСТВЕННЫЙ СПОСОБ ВОССТАНОВИТЬ ЖИЗНИ.",
     "tutorial_walljump": "ПРЫГАЙ около стены чтобы сделать ПРЫЖОК ОТ СТЕНЫ. (Максимум 3 раза)",
     "tutorial_shockwave1": "Нажми",
     "tutorial_shockwave2": "чтобы сделать УДАР О ЗЕМЛЮ.",
@@ -798,7 +798,7 @@
     "prelude_first_openingCredits1": "NEW BLOOD ПРЕДСТАВЛЯЕТ",
     "prelude_first_openingCredits2": "ИГРА ОТ ARSI 'HAKITA' PATALA",
     "prelude_first_pipeClip": "\"ПУСТЬ PIPE CLIP ЖИВЁТ.\"$T.HAKITA",
-    "prelude_first_revolverPierce1": "РЕВОЛЬВЕР: зажми",
+    "prelude_first_revolverPierce1": "РЕВОЛЬВЕР: Зажми",
     "prelude_first_revolverPierce2": "чтобы сделать ПРОНЗАТЕЛЬНЫЙ ВЫСТРЕЛ.",
     "prelude_first_parry": "УДАРЬ ПРОДЖЕКТАЙЛ чтобы ОТРАЗИТЬ его.",
 
@@ -841,7 +841,12 @@
     "act2_greedThird_troll2": "Шучу :)",
     "act2_greedthird_tombOfKings": "ГРОБНИЦА КОРОЛЕЙ",
     "act2_greedFourth_v2": "На этот раз ты не сбежишь.",
-    "act2_greedFourth_whiplash2": ", чтобы бросить. Отпустите, чтобы тянуть.",
+    "act2_greedFourth_whiplash1": "ВИПЛЕШ: Зажми",
+    "act2_greedFourth_whiplash2": "чтобы бросить, отпусти чтобы притянуться",
+    "act2_greedFourth_whiplash3": "ВИПЛЕШ: Притягивает к вам легких врагов. Притягивает вас к тяжелым врагам.",
+
+    "act2_greedFourth_whiplashHardDamage1": "ВИПЛЕШ: Увеличивает ТЯЖЁЛЫЙ УРОН при использовании ВРАГАМ.",
+    "act2_greedFourth_whiplashHardDamage2": "НЕ МОЖЕТ УМЕНЬШИТЬ HP, но рискованно использовать при низком уровне HP.",
     "act2_greedSecret_holdToJump1": "Удерживайте [",
     "act2_greedSecret_holdToJump2": "], чтобы отскочить выше.",
     "act2_greedSecret_transactionComplete1": "ПЕРЕВОД ЗАВЕРШЁН",
@@ -851,7 +856,11 @@
     "act2_wrathSecond_neptune": "Услышь! Нептун сразил их.",
     "act2_wrathThird_hank": "Ничего не произошло, но вы уверены, что Хэнк-младший и его Хэнкпредок были бы благодарны за это… Если бы они не были мертвы.",
     "act2_heresyFirst_armboy": "Р У К А С Т И К !!!",
-    "act2_secretNotReady": "ТЕБЯ НЕ ДОЛЖНО ЗДЕСЬ БЫТЬ."
+    "act2_secretNotReady": "ТЕБЯ НЕ ДОЛЖНО ЗДЕСЬ БЫТЬ.",
+
+    "act2_wrathFirst_slingshot": "Синие крючки действуют как РОГАТКИ.",
+    "act2_wrathFirst_whiplashUnderwater": "ВИПЛЕШ: НЕ наносит СИЛЬНЫЕ ПОВРЕЖДЕНИЯ ПОД ВОДОЙ. Сходите с ума, получайте удовольствие.",
+    "act2_wrathFirst_sentry": "ПРЕРЫВАЙТЕ ДЕЙСТВИЯ ТУРЕЛЕЙ: Кнаклбластером (Красной рукой) // Рельсотроном // Ударной волной удара о землю // Револьвером по антенне"
   },
   "act3": {
     "act3_violenceFirst_doorOpens": "Двери открылись.",
@@ -1245,7 +1254,7 @@
       "assists_bossRestartRequired": "НЕОБХОДИМ РЕСТАРТ БОССА",
       "assists_infiniteEnergy": "БЕСКОНЕЧНАЯ ВЫНОСЛИВОСТЬ",
       "assists_disableHardDamage": "ВЫКЛЮЧИТЬ ТЯЖЁЛЫЙ УРОН",
-      "assists_disableWhiplashHardDamage": "ВЫКЛЮЧИТЬ ТЯЖЁЛЫЙ УРОН WHIPLASH'А",
+      "assists_disableWhiplashHardDamage": "ВЫКЛЮЧИТЬ ТЯЖЁЛЫЙ УРОН ВИПЛЕША",
       "assists_disableWeaponFreshness": "ВЫКЛЮЧИТЬ СВЕЖЕСТЬ ОРУЖИЯ",
       "assists_disablePopupHints": "ВЫКЛЮЧИТЬ ВСПЛЫВАЮЩИЕ ПОДСКАЗКИ",
       "colors_title": "ЦВЕТА",
