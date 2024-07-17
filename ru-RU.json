@@ -1043,6 +1043,8 @@
       "controls_punchFeedbacker": "УДАР (ФИДБЕКЕР)",
       "controls_punchKnuckleblaster": "УДАР (КНАКЛБЛАСТЕР)",
       "graphics_fieldOfVision": "FOV",
+      "graphics_gamma1": "ГАММА (ЯРКОСТЬ)",
+      "graphics_gamma2": "(вроде как)",
       "graphics_goreMaxBloodStains": "МАКСИМУМ КРОВИ",
       "controls_redrawNext": "СЛЕД. ВАРИАЦИЯ",
       "controls_redrawFirst": "ПЕРВАЯ ВАРИАЦИЯ",
