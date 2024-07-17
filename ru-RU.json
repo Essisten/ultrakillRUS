@@ -778,22 +778,55 @@
     "tutorial_videoCalibrationPcDescription": "ГЛАДКОЕ, ЧИСТОЕ, ЛЕГКО ЧИТАЕТСЯ",
     "tutorial_videoCalibrationPsxDescription": "ГРУБОЕ, ПИКСЕЛИЗИРОВАННОЕ, ИСКАЖЁННОЕ",
     "tutorial_controllerCalibrationTitle": "ОБНАРУЖЕН ГЕЙМПАД",
-    "tutorial_punch1": "Нажмите '",
-    "tutorial_slide1": "Удерживайте '",
-    "tutorial_dash1": "Нажмите ' ",
-    "tutorial_dash3": "Можно выполнить в воздухе.",
-    "tutorial_shockwave1": "Нажмите ' "
+    "tutorial_punch1": "Press",
+    "tutorial_punch2": "чтобы УДАРИТЬ.",
+    "tutorial_slide1": "Удерживайте",
+    "tutorial_slide2": "чтобы СКОЛЬЗИТЬ.",
+    "tutorial_dash1": "Нажмите",
+    "tutorial_dash2": "чтобы сделать РЫВОК. (Расходует стамину)",
+    "tutorial_dash3": "Может быть использовано в воздухе.",
+    "tutorial_health1": "Наносите урон на маленьком расстоянии чтобы получать СВЕЖУЮ КРОВЬ.",
+    "tutorial_health2": "ЭТО ЕДИНСТВЕННЫЙ СПОСОБ ВОСТАНОВИТЬ ЖИЗНИ.",
+    "tutorial_walljump": "ПРЫГАЙ около стены чтобы сделать ПРЫЖОК ОТ СТЕНЫ. (Максимум 3 раза)",
+    "tutorial_shockwave1": "Нажми",
+    "tutorial_shockwave2": "чтобы сделать УДАР О ЗЕМЛЮ.",
+    "tutorial_shockwave3": "Зажми чтобы сделать УДАРНУЮ ВОЛНУ. (Расходует стамину)",
+    "tutorial_orb1": "Большенство уровней содержит СФЕРЫ ДУШИ.",
+    "tutorial_orb2": "Коснитесь их, чтобы получить БОНУС ОЧКОВ."
   },
   "prelude": {
-    "prelude_first_pipeClip": "\"ПРОХОД ЧЕРЕЗ ТРУБУ НИКУДА НЕ ДЕЛСЯ!\"$Т.ХАКИТА",
-    "prelude_second_doorClip": "\"ЧЁ ВВЕРХУ?\"$Т.ХАКИТА",
-    "prelude_third_shotgun2": ", чтобы выпустить ядро.",
-    "prelude_third_shotgun3": "Удерживайте, чтобы увеличить дальность выстрела.",
-    "prelude_secret_somethingWicked": "Что-то грешное спешит."
+    "prelude_first_openingCredits1": "NEW BLOOD ПРЕДСТАВЛЯЕТ",
+    "prelude_first_openingCredits2": "ИГРА ОТ ARSI 'HAKITA' PATALA",
+    "prelude_first_pipeClip": "\"ПУСТЬ PIPE CLIP ЖИВЁТ.\"$T.HAKITA",
+    "prelude_first_revolverPierce1": "РЕВОЛЬВЕР: зажми",
+    "prelude_first_revolverPierce2": "чтобы сделать ПРОНЗАТЕЛЬНЫЙ ВЫСТРЕЛ.",
+    "prelude_first_parry": "УДАРЬ ПРОДЖЕКТАЙЛ чтобы ОТРАЗИТЬ его.",
+
+    "prelude_first_hardDamage1": "Получение урона ВРЕМЕННО снижает ваш МАКСИМАЛЬНЫЙ запас здоровья..",
+    "prelude_first_hardDamage2": "«ТЯЖЁЛЫЙ УРОН» восстанавливается быстрее при СТИЛЬНОЙ игре.",
+
+    "prelude_first_groundSlam1": "УДАР О ЗЕМЛЮ",
+    "prelude_first_groundSlam2": "наносит урон при прямом попадании.",
+
+    "prelude_second_shop": "Используйте свои БАЛЛЫ в МАГАЗИНЕ в начале каждого уровня, чтобы купить новое снаряжение..",
+    "prelude_second_doorClip": "\"ЧТО ЗА UPDOOR?\"$T. HAKITA",
+    "prelude_second_changeEquipped": "Перебирайте ОБОРУДОВАННЫЕ варианты с помощью",
+
+    "prelude_third_needShotgun": "НЕДОСТАТОЧНАЯ ОГНЕВАЯ МОЩНОСТЬ",
+    "prelude_third_shotgun1": "ДРОБОВИК: нажмите",
+    "prelude_third_shotgun2": "чтобы выстрелить взрывчаткой.",
+    "prelude_third_shotgun3": "Удерживайте, чтобы зарядить на большее расстояние.",
+    "prelude_third_shotgunPierce": "ДРОБОВИК — основной огонь пронзает более слабых врагов.",
+
+    "prelude_secret_somethingWicked": "Сюда приходит что-то злое."
   },
   "act1": {
-    "act1_limboFirst_items2": " .",
+    "act1_limboFirst_items1": "Нажми",
+    "act1_limboFirst_items2": "чтобы подбирать ПРЕДМЕТЫ.",
+    "act1_limboFirst_nailgun1": "ГВОЗДЕМЁТ: Используй",
+    "act1_limboFirst_nailgun2": "чтобы стрелять МАГНИТНЫМИ ГВОЗДЯМИ.",
     "act1_limboFirst_nailgun3": "Магниты можно прикреплять к различным поверхностям для создания ловушек.",
+    "act1_limboThird_splitDoor1": "Для открытия дверей 2 РАЗНЫХ ЦВЕТОВ требуется только ОДИН ЧЕРЕП",
     "act1_limboThird_splitDoor2": "Если не ищете неприятностей, не выходите наружу",
     "act1_limboFourth_hank1": "Ничего не случилось, но вам почему-то стало легче на душе.",
     "act1_limboFourth_hank2": "Вы решили назвать его 'Хэнк'.",
@@ -1399,7 +1432,11 @@
       "challenges_wrathThird": "НЕ КАСАЙТЕСЬ ВОДЫ",
       "challenges_wrathFourth": "ДОБЕРИТЕСЬ ДО ПОВЕРХНОСТИ МЕНЬШЕ, ЧЕМ ЗА 10 СЕКУНД",
       "challenges_heresyFirst": "ОДЕРЖИТЕ ПОБЕДУ В СЕКРЕТНОЙ СХВАТКЕ",
-      "challenges_heresySecond": "УДАРЬТЕ ГАВРИИЛА ОБ ПОТОЛОК"
+      "challenges_heresySecond": "УДАРЬТЕ ГАВРИИЛА ОБ ПОТОЛОК",
+      "challenges_violenceFirst": "НАЙДИ СЕКРЕТНУЮ БИТВУ",
+      "challenges_violenceSecond": "НЕ УБИВАЙ НИКОГО",
+      "challenges_violenceThird": "СТАНЬ МАРКИРОВАНЫМ ДЛЯ СМЕРТИ",
+      "challenges_violenceFourth": "НЕ СРАЖАЙСЯ С СИСТЕМОЙ ОХРАНЫ"
     },
     "levelTips": {
       "leveltips_limboThird2": "Быстрое мышление и хорошее расположение позволит использовать крупных врагов для расправы с другими противниками.",
