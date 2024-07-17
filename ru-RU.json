@@ -855,6 +855,9 @@
     "act2_wrathFirst_waterDrained": "Вы спустили воду.",
     "act2_wrathSecond_neptune": "Услышь! Нептун сразил их.",
     "act2_wrathThird_hank": "Ничего не произошло, но вы уверены, что Хэнк-младший и его Хэнкпредок были бы благодарны за это… Если бы они не были мертвы.",
+    "act2_wrathThird_rocketLauncher": "РАКЕТНИЦА: ПРЯМЫЕ попадания вызовут ВЗРЫВЫ.$ взрывы рядом запустят врагов.",
+    "act2_wrathThird_rocketLauncherMidair": "РАКЕТА: Прямые попадания в ПАДАЮЩИХ врагов вызовут СИЛЬНЫЕ взрывы.",
+    "act2_wrathThird_soldierBlock": "Солдаты НЕ МОГУТ блокировать взрывы, находясь в ВОЗДУХЕ. $ Выстрелите ракету РЯДОМ с ними, чтобы запустить их.",
     "act2_heresyFirst_armboy": "Р У К А С Т И К !!!",
     "act2_secretNotReady": "ТЕБЯ НЕ ДОЛЖНО ЗДЕСЬ БЫТЬ.",
 
@@ -1652,7 +1655,8 @@
     "cheats": {
       "cheats_disclaimer1": "Включение читов означает, что вы не получите ранг по завершении уровня и рекорд Cyber \u200B\u200BGrind не будет сохранен.",
       "cheats_disclaimer2": "Нажмите ~ или HOME после включения читов, чтобы переключиться в меню.",
-      "cheats_disclaimerYes": "АКТИВИРОВТАЬ",
+      "cheats_disclaimerYes": "АКТИВИРОВАТЬ",
+      "cheats_invincibility": "Бессмертие",
       "cheats_disclaimerNo": "ОТМЕНА",
       "cheats_panelTitle": "УПРАВЛЕНИЕ ЧИТАМИ",
       "cheats_keepEnabled": "Оставить читы включёнными",
