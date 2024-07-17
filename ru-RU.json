@@ -1448,12 +1448,75 @@
       "challenges_violenceFourth": "НЕ СРАЖАЙСЯ С СИСТЕМОЙ ОХРАНЫ"
     },
     "levelTips": {
-      "leveltips_limboThird2": "Быстрое мышление и хорошее расположение позволит использовать крупных врагов для расправы с другими противниками.",
-      "leveltips_lustSecond3": "Чем дольше длится приземление, тем сильнее будет отскок.",
-      "leveltips_greedThird": "Попадание по врагу краем взрыва подбросит его в воздух, не нанося много урона, что делает это рискованным, но эффективным способом борьбы со сталкерами.",
-      "leveltips_primeFirst1": "Парирование является мощным способом восстановления здоровья.",
-      "leveltips_heresySecond1": "НЕ ТРАТЬТЕ СТАМИНУ ВПУСТУЮ!",
-      "leveltips_sandbox2": "Включение рейтинга выключит читы."
+      "leveltips_preludeSecond1": "The Revolver deals <color=orange>locational damage</color>.",
+      "leveltips_preludeSecond2": "A headshot deals 2x damage and a limbshot deals 1.5x damage.",
+      "leveltips_preludeThird1": "Dash: Fully invincible, costs stamina",
+      "leveltips_preludeThird2": "Slide: Greater distance, no invincibility",
+      "leveltips_preludeThird3": "Jump: Quickly out of melee range, less control",
+      "leveltips_preludeFourth1": "Shotgun parries:",
+      "leveltips_preludeFourth2": "A point-blank Shotgun shot to the torso right before an enemy attack lands will deal massive damage.",
+      "leveltips_preludeFifth": "Attack sound cues allow you to keep track of enemies who are off screen.",
+
+      "leveltips_limboFirst": "Some enemies make idle sounds to make them easier to track.",
+      "leveltips_limboSecond": "Use the ATTRACTOR NAILGUN's magnets to form concentrated orbs of nails that can be moved around using the pull force of other magnets.",
+      "leveltips_limboThird1": "Enemies can hurt other enemy types.",
+      "leveltips_limboThird2": "With quick thinking and positioning, powerful enemies can turn into powerful weapons.",
+      "leveltips_limboFourth": "The ATTRACTOR NAILGUN's magnets can be attached to enemies to make mobile targets easy to hit with nails.",
+
+      "leveltips_lustFirst": "Enemies scream when falling from a fatal height.",
+      "leveltips_lustSecond1": "SLAM BOUNCING:",
+      "leveltips_lustSecond2": "Jump immediately after landing from a ground slam to jump higher.",
+      "leveltips_lustSecond3": "The longer the ground slam fall, the higher the bounce.",
+      "leveltips_lustThird": "RAILCANNON variations all share the same cooldown. Choose wisely which variation best fits the situation.",
+      "leveltips_lustFourth1": "SLIDING will retain previous momentum for a short amount of time. ",
+      "leveltips_lustFourth2": "Chaining quick SLIDE JUMPS after a DASH JUMP will give you incredible sustained speed.",
+
+      "leveltips_gluttonyFirst": "Environmental hazards such as harmful liquids will hurt enemies as well.",
+      "leveltips_gluttonySecond1": "If you're having trouble keeping up with a tough enemy, stand back and observe. ",
+      "leveltips_gluttonySecond2": "Every enemy has its tells and patterns and learning those can be your key to victory.",
+
+
+      "leveltips_greedFirst": "HITSCAN weapons can be used to hit the shotgun's CORE EJECT in mid-air to increase its damage and blast radius.",
+      "leveltips_greedSecond": "POWER-UPS can be stacked.",
+      "leveltips_greedThird": "Hitting an enemy with only the edge of an explosion will launch them without dealing much damage, making it a risky but effective tool against Stalkers.",
+      "leveltips_greedFourth": "Airborne coins can be shot with any hitscan weapon.",
+
+      "leveltips_wrathFirst": "Falling underwater is slow, but a ground slam allows for a quick return to the ground.",
+      "leveltips_wrathSecond": "Sliding onto water will cause one to skip across its surface.",
+      "leveltips_wrathThird": "If an enemy is blessed by an Idol, a direct visible connection is formed between the two, allowing one to easily track down and destroy the protector.",
+      "leveltips_wrathThirdBroken": "Ow.",
+      "leveltips_wrathFourth1": "Explosions deflect projectiles.",
+      "leveltips_wrathFourth2": "If an explosion is caused right from where an enemy shoots a projectile, it can backfire and hit them instead.",
+
+      "leveltips_heresyFirst1": "The space of a large arena can be used to one's advantage.",
+      "leveltips_heresyFirst2": "Using the environment to break line-of-sight with enemies allows for some breathing room and time to consider <color=orange>target prioritization</color>.",
+      "leveltips_heresySecond1": "DON'T WASTE STAMINA!",
+      "leveltips_heresySecond2": "Dashing needlessly while fighting very aggressive foes will quickly cause one to have none left when it is most needed.",
+
+
+      "leveltips_violenceFirst": "<color=orange>Homing projectiles</color> may be more difficult to dodge, but their tracking and slower speed makes them much <color=orange>easier</color> to <color=orange>parry.</color>",
+      "leveltips_violenceSecond": "<color=orange>Mannequins</color> can be hard to hit due to their speed, but they lose air control when <color=orange>launched</color> or <color=orange>shot down</color> from a surface, making them <color=orange>unable to move</color> for a short moment.",
+      "leveltips_violenceThird": "The <color=red>Knuckleblaster</color>'s <color=orange>blast wave</color> is also capable of breaking a <color=orange>Gutterman's shield</color>, and is much easier to land in a chaotic scenario.",
+      "leveltips_violenceFourth": "A <color=orange>direct hit</color> from the Knuckleblaster has extremely powerful <color=orange>knockback</color>, making it extremely powerful for launching enemies into <color=orange>pits</color> and other <color=orange>environmental hazards</color>.",
+      "leveltips_violenceSecret": "Didn't except me, huh?'",
+
+      "leveltips_fraudFirst": "LEVEL TIP FRAUD FIRST",
+      "leveltips_fraudSecond": "LEVEL TIP FRAUD SECOND",
+      "leveltips_fraudThird": "LEVEL TIP FRAUD THIRD",
+      "leveltips_fraudFourth": "LEVEL TIP FRAUD CLIMAX",
+
+      "leveltips_treacheryFirst": "LEVEL TIP TREACHERY FIRST",
+      "leveltips_treacherySecond": "LEVEL TIP TREACHERY CLIMAX",
+
+      "leveltips_primeFirst1": "Parries can be used as a powerful healing tool.",
+      "leveltips_primeFirst2": "Parrying any enemy projectile or melee attack will fully replenish your health up to the hard damage limit.",
+      "leveltips_primeSecond": "Have fun.",
+
+      "leveltips_cybergrind": "If blown too far off the arena, PUMP CHARGE's overcharge is a good way to get back.",
+      "leveltips_sandbox1": "CHEATS can be enabled in other levels by inputting:",
+      "leveltips_sandbox2": "Enabling ranks will disable cheats.",
+
+      "leveltips_devMuseum": "You can pick up the cut weapons on the second floor."
     },
     "shop": {
       "shop_tipofthedayTitle": "СОВЕТ ДНЯ",
@@ -1587,8 +1650,10 @@
       "shop_loreRocketLauncher15": "Ядро из Пушки К.Р.С. можно отбить сразу после выстрела, однако если это сделать после того, как ядро отскочит от врага, то оно продержится дольше."
     },
     "cheats": {
-      "cheats_disclaimerYes": "АКТИВИРОВАТЬ ЧИТЫ",
-      "cheats_disclaimerNo": "ОТМЕНИТЬ",
+      "cheats_disclaimer1": "Включение читов означает, что вы не получите ранг по завершении уровня и рекорд Cyber \u200B\u200BGrind не будет сохранен.",
+      "cheats_disclaimer2": "Нажмите ~ или HOME после включения читов, чтобы переключиться в меню.",
+      "cheats_disclaimerYes": "АКТИВИРОВТАЬ",
+      "cheats_disclaimerNo": "ОТМЕНА",
       "cheats_panelTitle": "УПРАВЛЕНИЕ ЧИТАМИ",
       "cheats_keepEnabled": "Оставить читы включёнными",
       "cheats_spawnerArm": "Создающая рука",
@@ -1611,36 +1676,53 @@
       "cheats_snapping": "Привязка к сетке",
       "cheats_physics": "Физика созданных элементов",
       "cheats_crashMode": "Режим Клэш",
-      "cheats_stayActive": "ОСТАВИТЬ АКТИВНЫМИ",
+      "cheats_cheatsEnabled": "<color=#44FF45>ЧИТЫ</color> ВКЛЮЧЕНЫ :^)",
+      "cheats_enemiesHateEnemies": "Враги атакуют друг друга",
+      "cheats_enemiesIgnorePlayer": "Враги игнорируют игрока",
+      "cheats_hideWeapons": "Спрятать оружие",
+      "cheats_hideUi": "Спрять UI",
+      "cheats_ghostDroneMode": "Охота за дронами",
+
+      "cheats_stayActive": "ОСТАВИТЬ АКТИВНЫМ",
       "cheats_disableOnReload": "ВЫКЛЮЧИТЬ ПРИ ПЕРЕЗАГРУЗКЕ",
       "cheats_equip": "ЭКИПИРОВАТЬ",
       "cheats_remove": "УБРАТЬ",
+      "cheats_loadLatestSave": "ЗАГРУЗИТЬ ПОСЛЕДНЕЕ СОХРАНЕНИЕ",
       "cheats_open": "ОТКРЫТЬ",
-      "cheats_killAll": "УБИТЬ ВСЕХ ВРАГОВ",
-      "cheats_static": "СТАТИЧЕСКАЯ",
-      "cheats_dynamic": "ДИНАМИЧЕСКАЯ",
+      "cheats_killAll": "УБИТЬ ВСЕХ",
+      "cheats_static": "СТАТИЧЕСКИЙ",
+      "cheats_dynamic": "ДИНАМИЧНЫЙ",
       "cheats_rebuild": "ПЕРЕСТРОИТЬ",
-      "cheats_rebuilding": "ПЕРЕСТРОЕНИЕ",
-      "cheats_activated": "АКТИВНО",
-      "cheats_deactivated": "НЕАКТИВНО",
-      "cheats_pressToBind": "НАЗНАЧИТЬ КЛАВИШУ",
-      "cheats_delete": "УБРАТЬ",
-      "cheats_spawnerArmSlot": "Создающая рука в слоте 6",
-      "cheats_dupesTitle": "СОХРАНЕНИЯ ПЕСОЧНИЦЫ",
-      "cheats_dupesSaveNamePrompt": "ВВЕДИТЕ НОВОЕ ИМЯ",
+      "cheats_rebuilding": "ПЕРЕСТРОЙКА...",
+
+      "cheats_activated": "АКТИВИРОВАНО",
+      "cheats_deactivated": "АКТИВИРОВАНО",
+      "cheats_pressToBind": "НАЖМИТЕ ЧТОБЫ ЗАБИНДИТЬ",
+      "cheats_delete": "УДАЛИТЬ",
+
+      "cheats_navmeshOutdated1": "NAVMESH УСТАРЕЛ",
+      "cheats_navmeshOutdated2": "(Перестроить путь в меню читов)",
+
+      "cheats_spawnerArmSlot": "Спавн-Рука в 6 слоте",
+
+      "cheats_dupesTitle": "СОХРАНЕНИЕ ПЕСОЧНИЦЫ",
+      "cheats_dupesSaveNamePrompt": "ВВЕДИТЕ ИМЯ ЗДЕСЬ",
       "cheats_dupesNewSave": "НОВОЕ СОХРАНЕНИЕ",
-      "cheats_dupesOpenFolder": "ОТКРЫТЬ ПАПКУ",
+      "cheats_dupesOpenFolder": "ОТКРЫТЬ ФАЙЛ",
+      "cheats_dupesOverWriteWarn": "Ты уверен что хочешь \n<color=orange>ПЕРЕЗАПИСАТЬ</color> сохранение песочницы?",
       "cheats_dupesSave": "СОХРАНИТЬ",
       "cheats_dupesLoad": "ЗАГРУЗИТЬ",
       "cheats_dupesDelete": "УДАЛИТЬ",
-      "cheats_categoryMeta": "ОБЩЕЕ",
+
+      "cheats_categoryMeta": "МЕТА",
       "cheats_categorySandbox": "ПЕСОЧНИЦА",
-      "cheats_categoryMovement": "ПЕРЕМЕЩЕНИЕ",
-      "cheats_categoryGeneral": "ОСНОВНОЕ",
+      "cheats_categoryGeneral": "ОСНОВНЫЕ",
+      "cheats_categoryMovement": "ПЕРЕДВИЖЕНИЕ",
       "cheats_categoryEnemies": "ВРАГИ",
-      "cheats_categoryWeapons": "ОРУЖИЕ",
+      "cheats_categoryWeapons": "ОРУЖИЯ",
       "cheats_categoryItems": "ПРЕДМЕТЫ",
-      "cheats_categorySpecial": "ОСОБОЕ"
+      "cheats_categoryVisual": "ВИЗУАЛЬНЫЕ",
+      "cheats_categorySpecial": "СПЕЦИАЛЬНЫЕ"
     },
     "subtitles": {
       "subtitles_gabriel_intro1": "Машина.",
