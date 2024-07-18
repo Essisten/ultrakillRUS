@@ -2,7 +2,7 @@
   "metadata": {
     "langName": "ru-RU",
     "langAuthor": "V1, V2",
-    "langVersion": "0.0.8",
+    "langVersion": "0.0.9",
     "langDisplayName": "Русский",
     "langRTL": "false",
     "minimumModVersion": "1.3.0"
@@ -884,7 +884,17 @@
     "act1_secret": "Где-то глубоко в Лимбе был запущен механизм."
   },
   "act2": {
-    "act2_greedThird_wallClip": "\"ОТБРОСОВ БОЛЬШЕ НЕТ, НО ПАМЯТЬ ОСТАЁТСЯ.\"$Т. ХАКИТА",
+    "act2_greedSecond_sand": "Враги, покрытые песком, НЕ БУДУТ КРОВОТОЧИТЬ..",
+
+    "act2_greedThird_wallClip": "\"ГРЯЗЬ УШЛА, НО ВОСПАМИНАНИЯ ОСТАЮТСЯ.\"$T. HAKITA",
+    "act2_greedThird_tombOfKings": "ГРОБНИЦА КОРОЛЕЙ",
+
+    "act2_greedFourth_alternateNailgun": "<color=orange>АЛЬТЕРНАТИВНЫЙ ГВОЗДЕМЁТ</color>: Ниже скорострельность. Проджектайлы рикошетят от поверхностей",
+
+    "act2_wrathSecond_idol": "ИДОЛЫ можно убить только с помощью БЛИЖНЕГО БОЯ",
+    "act2_wrathSecond_jakito1": "Я ЖАКИТО. ПРИНЕСИ МНЕ ЖЕРТВУ. ОНА ПОМОЖЕТ МНЕ СБЕЖАТЬ.",
+    "act2_wrathSecond_jakito2": "СПАСИБО. ТЕПЕРЬ Я ПРИНЕСУ РАЗРУШЕНИЕ В ЭТОТ МИР.",
+    "act2_wrathSecond_jakito3": "НЕТ. ЭТО ДОЛЖНА БЫТЬ НЕВИННАЯ ПЛОТЬ.",
     "act2_greedThird_troll1": "Что-то грешное спешит.",
     "act2_greedThird_troll2": "Шучу :)",
     "act2_greedthird_tombOfKings": "ГРОБНИЦА КОРОЛЕЙ",
