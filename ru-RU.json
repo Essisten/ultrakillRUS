@@ -2,7 +2,7 @@
   "metadata": {
     "langName": "ru-RU",
     "langAuthor": "V1, V2",
-    "langVersion": "0.0.7",
+    "langVersion": "0.0.8",
     "langDisplayName": "Русский",
     "langRTL": "false",
     "minimumModVersion": "1.3.0"
@@ -1499,57 +1499,57 @@
       "challenges_violenceFourth": "НЕ СРАЖАЙСЯ С СИСТЕМОЙ ОХРАНЫ"
     },
     "levelTips": {
-      "leveltips_preludeSecond1": "The Revolver deals <color=orange>locational damage</color>.",
-      "leveltips_preludeSecond2": "A headshot deals 2x damage and a limbshot deals 1.5x damage.",
-      "leveltips_preludeThird1": "Dash: Fully invincible, costs stamina",
-      "leveltips_preludeThird2": "Slide: Greater distance, no invincibility",
-      "leveltips_preludeThird3": "Jump: Quickly out of melee range, less control",
-      "leveltips_preludeFourth1": "Shotgun parries:",
-      "leveltips_preludeFourth2": "A point-blank Shotgun shot to the torso right before an enemy attack lands will deal massive damage.",
-      "leveltips_preludeFifth": "Attack sound cues allow you to keep track of enemies who are off screen.",
+      "leveltips_preludeSecond1": "Револьвер наносит <color=orange>локационный урон</color>.",
+      "leveltips_preludeSecond2": "Выстрел в голову наносит 2x урона, а выстрел в конечности 1.5x урона.",
+      "leveltips_preludeThird1": "Рывок: полная неуязвимость, требует выносливости.",
+      "leveltips_preludeThird2": "Скольжение: большая дистанция, нет неуязвимости",
+      "leveltips_preludeThird3": "Прыжок: быстро выходит за пределы ближнего боя, мало контроля",
+      "leveltips_preludeFourth1": "Дробовиком можно парировать:",
+      "leveltips_preludeFourth2": "Выстрел в упор из дробовика в туловище прямо перед атакой противника нанесет огромный урон.",
+      "leveltips_preludeFifth": "Звуковые сигналы атаки позволяют отслеживать врагов, находящихся за пределами экрана.",
 
-      "leveltips_limboFirst": "Some enemies make idle sounds to make them easier to track.",
-      "leveltips_limboSecond": "Use the ATTRACTOR NAILGUN's magnets to form concentrated orbs of nails that can be moved around using the pull force of other magnets.",
-      "leveltips_limboThird1": "Enemies can hurt other enemy types.",
-      "leveltips_limboThird2": "With quick thinking and positioning, powerful enemies can turn into powerful weapons.",
-      "leveltips_limboFourth": "The ATTRACTOR NAILGUN's magnets can be attached to enemies to make mobile targets easy to hit with nails.",
+      "leveltips_limboFirst": "Некоторые враги попусту издают звуки, чтобы их было легче выследить.",
+      "leveltips_limboSecond": "Используйте магниты гвоздемёта, чтобы сформировать концентрированные шары из гвоздей, которые можно перемещать, используя силу притяжения других магнитов.",
+      "leveltips_limboThird1": "Враги могут причинять вред другим типам врагов.",
+      "leveltips_limboThird2": "Благодаря правильному выбору позиции и быстрому мышлению могущественные враги могут превратиться в мощное оружие.",
+      "leveltips_limboFourth": "Магниты гвоздемёта можно прикрепить к врагам, чтобы можно было легко поразить подвижные цели гвоздями.",
 
-      "leveltips_lustFirst": "Enemies scream when falling from a fatal height.",
+      "leveltips_lustFirst": "Враги кричат когда падают со смертельной высоты",
       "leveltips_lustSecond1": "SLAM BOUNCING:",
-      "leveltips_lustSecond2": "Jump immediately after landing from a ground slam to jump higher.",
-      "leveltips_lustSecond3": "The longer the ground slam fall, the higher the bounce.",
-      "leveltips_lustThird": "RAILCANNON variations all share the same cooldown. Choose wisely which variation best fits the situation.",
-      "leveltips_lustFourth1": "SLIDING will retain previous momentum for a short amount of time. ",
-      "leveltips_lustFourth2": "Chaining quick SLIDE JUMPS after a DASH JUMP will give you incredible sustained speed.",
+      "leveltips_lustSecond2": "Прыгайте сразу после приземления после удара по земле, чтобы прыгнуть выше",
+      "leveltips_lustSecond3": "Чем дольше происходит падение с ударом по земле, тем выше отскок.",
+      "leveltips_lustThird": "Все варианты РЕЛЬСОТРОНА имеют одинаковое время восстановления. Выбирайте мудро, какой вариант лучше всего соответствует ситуации.",
+      "leveltips_lustFourth1": "СКОЛЬЖЕНИЕ сохранит прежний импульс в течение короткого периода времени.",
+      "leveltips_lustFourth2": "Сочетание быстрых SLIDE JUMPS после DASH JUMP даст вам невероятную устойчивую скорость.",
 
-      "leveltips_gluttonyFirst": "Environmental hazards such as harmful liquids will hurt enemies as well.",
-      "leveltips_gluttonySecond1": "If you're having trouble keeping up with a tough enemy, stand back and observe. ",
-      "leveltips_gluttonySecond2": "Every enemy has its tells and patterns and learning those can be your key to victory.",
-
-
-      "leveltips_greedFirst": "HITSCAN weapons can be used to hit the shotgun's CORE EJECT in mid-air to increase its damage and blast radius.",
-      "leveltips_greedSecond": "POWER-UPS can be stacked.",
-      "leveltips_greedThird": "Hitting an enemy with only the edge of an explosion will launch them without dealing much damage, making it a risky but effective tool against Stalkers.",
-      "leveltips_greedFourth": "Airborne coins can be shot with any hitscan weapon.",
-
-      "leveltips_wrathFirst": "Falling underwater is slow, but a ground slam allows for a quick return to the ground.",
-      "leveltips_wrathSecond": "Sliding onto water will cause one to skip across its surface.",
-      "leveltips_wrathThird": "If an enemy is blessed by an Idol, a direct visible connection is formed between the two, allowing one to easily track down and destroy the protector.",
-      "leveltips_wrathThirdBroken": "Ow.",
-      "leveltips_wrathFourth1": "Explosions deflect projectiles.",
-      "leveltips_wrathFourth2": "If an explosion is caused right from where an enemy shoots a projectile, it can backfire and hit them instead.",
-
-      "leveltips_heresyFirst1": "The space of a large arena can be used to one's advantage.",
-      "leveltips_heresyFirst2": "Using the environment to break line-of-sight with enemies allows for some breathing room and time to consider <color=orange>target prioritization</color>.",
-      "leveltips_heresySecond1": "DON'T WASTE STAMINA!",
-      "leveltips_heresySecond2": "Dashing needlessly while fighting very aggressive foes will quickly cause one to have none left when it is most needed.",
+      "leveltips_gluttonyFirst": "Опасности для окружающей среды, такие как вредные жидкости, также нанесут вред врагам.",
+      "leveltips_gluttonySecond1": "Если вам трудно справиться с сильным врагом, отойдите в сторону и понаблюдайте.",
+      "leveltips_gluttonySecond2": "У каждого врага есть свои приметы и модели поведения, и изучение их может стать вашим ключом к победе.",
 
 
-      "leveltips_violenceFirst": "<color=orange>Homing projectiles</color> may be more difficult to dodge, but their tracking and slower speed makes them much <color=orange>easier</color> to <color=orange>parry.</color>",
-      "leveltips_violenceSecond": "<color=orange>Mannequins</color> can be hard to hit due to their speed, but they lose air control when <color=orange>launched</color> or <color=orange>shot down</color> from a surface, making them <color=orange>unable to move</color> for a short moment.",
-      "leveltips_violenceThird": "The <color=red>Knuckleblaster</color>'s <color=orange>blast wave</color> is also capable of breaking a <color=orange>Gutterman's shield</color>, and is much easier to land in a chaotic scenario.",
-      "leveltips_violenceFourth": "A <color=orange>direct hit</color> from the Knuckleblaster has extremely powerful <color=orange>knockback</color>, making it extremely powerful for launching enemies into <color=orange>pits</color> and other <color=orange>environmental hazards</color>.",
-      "leveltips_violenceSecret": "Didn't except me, huh?'",
+      "leveltips_greedFirst": "Оружие HITSCAN можно использовать для попадания в ядро дробовика, выбрасываемое в воздухе, чтобы увеличить его урон и радиус поражения.",
+      "leveltips_greedSecond": "БОНУСЫ можно накапливать друг за другом.",
+      "leveltips_greedThird": "Попадая по врагу только краем взрыва, он запускает его, не нанося большого урона, что делает его опасным, но эффективным средством против Сталкеров.",
+      "leveltips_greedFourth": "Летящие по воздуху монеты можно сбивать любым оружием, имеющим HITSCAN атаки.",
+
+      "leveltips_wrathFirst": "Падение под воду происходит медленно, но удар о землю позволяет быстро вернуться на землю.",
+      "leveltips_wrathSecond": "Скользя по воде можно от неё отталкиваться.",
+      "leveltips_wrathThird": "Если враг благословлен Идолом, между ними устанавливается прямая видимая связь, позволяющая легко выследить и уничтожить защитника.",
+      "leveltips_wrathThirdBroken": "Оу.",
+      "leveltips_wrathFourth1": "Взрывы отклоняют снаряды.",
+      "leveltips_wrathFourth2": "Если взрыв происходит прямо с того места, где враг выпускает проджектайл, он может привести к обратному эффекту и поразить противника.",
+
+      "leveltips_heresyFirst1": "Пространство большой арены можно использовать с пользой для себя.",
+      "leveltips_heresyFirst2": "Использование окружающей среды для нарушения прямой видимости врагов дает некоторую передышку и время для рассмотрения <color=orange>приоритизации целей</color>.",
+      "leveltips_heresySecond1": "НЕ ТРАТИТЕ ВЫНОСЛИВОСТЬ!",
+      "leveltips_heresySecond2": "Бросаясь без необходимости в бой с очень агрессивными противниками, вы быстро потеряете их всех, когда это будет наиболее необходимо.",
+
+
+      "leveltips_violenceFirst": "<color=orange>Самонаводящиеся проджектайлы</color>: возможно, увернуться от них будет сложнее, но их выслеживание и меньшая скорость значительно облегчают задачу <color=orange>легко парировать.</color>",
+      "leveltips_violenceSecond": "<color=orange>Манекены</color>: в них трудно попасть из-за их скорости, но они теряют управление в <color=orange>воздухе</color>, когда их <color=orange>запускают</color> или <color=orange>сбивают с поверхности</color>, что на короткое время лишает их возможности <color=orange>двигаться</color>",
+      "leveltips_violenceThird": "<color=orange>Взрывная волна</color> <color=red>Кнаклбластера</color> также может сломать <color=orange>щит Гаттермена</color>, и позволяет гораздо легче приземлиться в хаотичном сценарии.",
+      "leveltips_violenceFourth": "<color=orange>Прямое попадание</color> от Кнаклбластера обладает чрезвычайно мощным <color=orange>отбрасыванием</color>, что делает его чрезвычайно мощным средством для запуска врагов в <color=orange>ямы</color> и другие <color=orange>экологические опасности</color>.",
+      "leveltips_violenceSecret": "Не исключил меня, да?'",
 
       "leveltips_fraudFirst": "LEVEL TIP FRAUD FIRST",
       "leveltips_fraudSecond": "LEVEL TIP FRAUD SECOND",
@@ -1559,15 +1559,15 @@
       "leveltips_treacheryFirst": "LEVEL TIP TREACHERY FIRST",
       "leveltips_treacherySecond": "LEVEL TIP TREACHERY CLIMAX",
 
-      "leveltips_primeFirst1": "Parries can be used as a powerful healing tool.",
-      "leveltips_primeFirst2": "Parrying any enemy projectile or melee attack will fully replenish your health up to the hard damage limit.",
-      "leveltips_primeSecond": "Have fun.",
+      "leveltips_primeFirst1": "Парирование может быть использовано как мощное лечебное средство.",
+      "leveltips_primeFirst2": "Парирование любого вражеского снаряда или атаки в ближнем бою полностью восстановит ваше здоровье вплоть до максимальной отметки тяжелого урона.",
+      "leveltips_primeSecond": "Веселись.",
 
-      "leveltips_cybergrind": "If blown too far off the arena, PUMP CHARGE's overcharge is a good way to get back.",
-      "leveltips_sandbox1": "CHEATS can be enabled in other levels by inputting:",
-      "leveltips_sandbox2": "Enabling ranks will disable cheats.",
+      "leveltips_cybergrind": "Если вас унесло слишком далеко от арены, перезаряд PUMP CHARGE - хороший способ вернуться обратно.",
+      "leveltips_sandbox1": "ЧИТЫ можно включить на других уровнях, введя:",
+      "leveltips_sandbox2": "Включение рангов отключит читы.",
 
-      "leveltips_devMuseum": "You can pick up the cut weapons on the second floor."
+      "leveltips_devMuseum": "Вы можете забрать вырезанное оружие на втором этаже."
     },
     "shop": {
       "shop_menu": "МЕНЮ",
