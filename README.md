@@ -6,6 +6,6 @@
 5. Из zip архива скаченного мода перекиньте папки config и plugins в папку BeplnEx
 6. Скачайте файл ru-RU.json с репозитория.
 7. Киньте этот файл в ULTRAKILL\BepInEx\config\ultrakull
-8. Скачайте [русскую озвучку](https://disk.yandex.ru/d/61NO_ElsgtueEg)
-9. Из zip архива русской озвучки перекиньте папку audio в ULTRAKILL\BepInEx\config\ultrakull
+8. Скачайте папку с русской озвучкой audio
+9. Перекиньте папку audio в ULTRAKILL\BepInEx\config\ultrakull
 10. Запускайте игру
