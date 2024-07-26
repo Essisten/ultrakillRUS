@@ -2,7 +2,7 @@
   "metadata": {
     "langName": "ru-RU",
     "langAuthor": "V1, V2",
-    "langVersion": "0.1.3",
+    "langVersion": "0.1.4",
     "langDisplayName": "Русский",
     "langRTL": "false",
     "minimumModVersion": "1.3.0"
@@ -1008,6 +1008,7 @@
     "act1_limboFirst_nailgun1": "ГВОЗДЕМЁТ: Используй",
     "act1_limboFirst_nailgun2": "чтобы стрелять МАГНИТНЫМИ ГВОЗДЯМИ.",
     "act1_limboFirst_nailgun3": "Магниты можно прикреплять к различным поверхностям для создания ловушек.",
+    "act1_limboSecond_blueAttack": "Синяя вспышка означает, что атаку НЕЛЬЗЯ ПАРИРОВАТЬ.",
     "act1_limboThird_splitDoor1": "Для открытия дверей 2 РАЗНЫХ ЦВЕТОВ требуется только ОДИН ЧЕРЕП",
     "act1_limboThird_splitDoor2": "Если не ищете неприятностей, не выходите наружу",
     "act1_limboFourth_book": "ПОДБЕРИ ЧТОБЫ ЧИТАТЬ.",
