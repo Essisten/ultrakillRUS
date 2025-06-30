@@ -1,4 +1,4 @@
-﻿{
+{
   "metadata": {
     "langName": "ru-RU",
     "langAuthor": "xX_TRAHALOSLA47_Xx, abez9na, Essisten",
@@ -201,6 +201,7 @@
     "act1_lustFirst_knuckleblaster1": "<color=red>НАКЛБА</color>: <color=orange>ДЕРЖИТЕ</color> ",
     "act1_lustFirst_knuckleblaster2": ", чтобы создать <color=orange>ВЗРЫВНУЮ ВОЛНУ</color> и отбросить врагов назад.",
     "act1_lustFirst_dashJump": "<color=#00FFFF>ПРЫЖОК ИЗ РЫВКА</color>: Вы сохраните инерцию <color=#00FFFF>РЫВКА</color>, если во время его выполнения совершите <color=orange>ПРЫЖОК</color>.",
+    "act1_lustFirst_crane": "УПРАВЛЕНИЕ КРАНОМ",
     "act1_lustSecond_feedbacker1": "Только <color=#00FFFF>ФИДБЕКЕР</color> позволяет парировать снаряды.",
     "act1_lustSecond_feedbacker2": "Переключайтесь между руками с помощью ",
     "act1_lustSecond_railcannon": "<color=#00FFFF>РЕЛЬСОТРОН</color>: <color=orange>ПЕРЕЗАРЯЖАЕТСЯ</color>, даже когда <color=orange>УБРАН</color>. Переключайтесь на другое оружие и продолжайте бой между выстрелами.",
@@ -2461,6 +2462,7 @@
     "style_queenpromo": "ПРОДВИЖЕНИЕ ФЕРЗЯ",
     "style_rookcapture": "ЗАХВАТ ЛАДЬИ",
     "style_rookpromo": "ПРОДВИЖЕНИЕ ЛАДЬИ",
+    "style_stophitting": "<size=42>НЕ БЕЙ САМ СЕБЯ</size>",
     "style_ultravictory": "УЛЬТРАПОБЕДА",
     "style_whitewins": "БЕЛЫЕ ПОБЕДИЛИ",
     "style_d": null,
